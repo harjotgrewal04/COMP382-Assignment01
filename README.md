@@ -1,7 +1,7 @@
 # **COMP382-Assignment01**
 ## **Team Members: Darius, Harjot**
 ---
-### **1. Nondeterministic Finite Automaton**
+### **1. Non-Deterministic Finite Automaton**
 #### **1.1 Finite Automaton**
 Finite Automan are machines which determine if a string is apart of some language. Based upon input of symbols or characters which are given to the machine it wil processe each one step-by-step. If the input leaves the machine in an accepting state then the input is accepted whereas if it is any other state it will be rejected. 
 
