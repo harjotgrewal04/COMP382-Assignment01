@@ -1,8 +1,12 @@
 # **COMP382-Assignment01**
 ## **Team Members: Darius, Harjot**
+
 ---
+
 ### **1. Project Overview**
 This project implements a NFA class which includes a memeber function and will perform the operation of a union with another NFA. The program will be able to check the input given to recognize the string in the language. The NFA class created includes the represnted states,alphabets,transition functions and the start & accept states. Using multiple test cases the functinality and correctness of the implementations are verified. 
+
+---
 
 ### **2. Non-Deterministic Finite Automaton**
 
@@ -26,11 +30,13 @@ DFA:
 
 NFA:
   - For each input symbol there can be multiple transition states
-  - Will allow for null moves (ε) meaning the machine can change states without taking in any input. 
+  - Will allow for null moves (ε) meaning the machine can change states without taking in any input.
+  - Not all NFAs are equal to DFAs
 
-### **3. NFA Diagrams & Examples**
-### **4. Design Choices**
+---
 
-### **5. References**
+### **3. References**
 - GeeksforGeeks. (2020, May 16). Difference between DFA and NFA. GeeksforGeeks. https://www.geeksforgeeks.org/theory-of-computation/difference-between-dfa-and-nfa/
-‌
+- Finite Automata Part One. (n.d.). https://web.stanford.edu/class/archive/cs/cs103/cs103.1184/lectures/14/Small14.pdf
+‌- Campbell, R. (2026). Sec 1.1 Finite Automata Lecture slides COMP-382-ON1: Language, Computation and Machines. University of the Fraser Valley
+- Campbell, R. (2026). Sec 1.2 Nondeterminism Lecture slides COMP-382-ON1: Language, Computation and Machines. University of the Fraser Valley
