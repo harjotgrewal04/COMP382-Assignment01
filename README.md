@@ -38,5 +38,5 @@ NFA:
 ### **3. References**
 - GeeksforGeeks. (2020, May 16). Difference between DFA and NFA. GeeksforGeeks. https://www.geeksforgeeks.org/theory-of-computation/difference-between-dfa-and-nfa/
 - Finite Automata Part One. (n.d.). https://web.stanford.edu/class/archive/cs/cs103/cs103.1184/lectures/14/Small14.pdf
-‌- Campbell, R. (2026). Sec 1.1 Finite Automata Lecture slides COMP-382-ON1: Language, Computation and Machines. University of the Fraser Valley
+- Campbell, R. (2026). Sec 1.1 Finite Automata Lecture slides COMP-382-ON1: Language, Computation and Machines. University of the Fraser Valley
 - Campbell, R. (2026). Sec 1.2 Nondeterminism Lecture slides COMP-382-ON1: Language, Computation and Machines. University of the Fraser Valley
