@@ -20,7 +20,7 @@ Finite Automaton is configured of a 5-tuple notation:
   - q₀ is the assigned start state
   - F ⊆ Q is the set of accept states which must belong to the set of all states
 
-#### **2.2 Types of Finite Automata **
+#### **2.2 Types of Finite Automata**
 - There are two main types of finite automate which include deterministic Finite Automata (DFA) and Non-Deterministic Finite Automata (NFA). This project is based upon NFA.
 
 DFA:
