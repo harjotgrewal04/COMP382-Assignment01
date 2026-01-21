@@ -40,3 +40,5 @@ NFA:
 - Finite Automata Part One. (n.d.). https://web.stanford.edu/class/archive/cs/cs103/cs103.1184/lectures/14/Small14.pdf
 - Campbell, R. (2026). Sec 1.1 Finite Automata Lecture slides COMP-382-ON1: Language, Computation and Machines. University of the Fraser Valley
 - Campbell, R. (2026). Sec 1.2 Nondeterminism Lecture slides COMP-382-ON1: Language, Computation and Machines. University of the Fraser Valley
+- OpenAI. (2026). ChatGPT (GPT-5.2) [Large language model]. https://chat.openai.com/ : Used for help researching in theoretical aspect of NFAs and notations 
+
